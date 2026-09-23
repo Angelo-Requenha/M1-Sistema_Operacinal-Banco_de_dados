@@ -1,0 +1,8 @@
+# id;nome - tabela inicial do banco simulado
+# O servidor carrega este arquivo na memoria ao subir e o reescreve
+# a cada INSERT / UPDATE / DELETE bem-sucedido.
+1;Joao
+2;Maria
+3;Carlos
+4;Ana
+5;Pedro
